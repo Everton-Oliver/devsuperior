@@ -1,3 +1,3 @@
 # dscatalog
 
-Repositório criado para o estudo do bootcamp Dev Superior.
+Repositório criado para o projeto Dev Superior.
